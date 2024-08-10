@@ -21,6 +21,7 @@ Breakout Game is a classic arcade game reimagined in Python. This project is des
 
 ## 👨‍💻Technologies
 
+- **Python**: The core programming language used for development.
 - **Turtle**: Python's built-in library for creating graphics and simple game mechanics.
 
 ## 👀Features
